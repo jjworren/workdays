@@ -1,0 +1,14 @@
+{
+    "name": "jjworren/czech-working-days",
+    "description": "Knihovna pro práci s pracovními dny",
+    "authors": [
+        {
+            "name": "Jan Kubát",
+            "email": "jan@kubat.me"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
